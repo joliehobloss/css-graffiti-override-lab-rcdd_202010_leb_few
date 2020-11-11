@@ -17,3 +17,7 @@
     z-index: 5;
     display: none;
 }
+
+#wall div {
+    display: block;
+}
